@@ -1184,6 +1184,7 @@ Where vibe coding news breaks first.
 | [GitHub Topic: vibe-coding](https://github.com/topics/vibe-coding) | Open source | Track fresh launches and active open-source vibe coding projects. |
 | [HackerNoon](https://hackernoon.com/tagged/ai) | Tech Stories | Developer-written AI content. Long articles and tutorials. |
 | [Dev.to AI](https://dev.to/t/ai) | Dev Community | Community tutorials and discussions on AI coding. |
+| [Shipped & Paid](https://shippedandpaid.com) | Revenue cases | Apps built with AI coding tools that report revenue, each with a linked source and a proof label (Verified, Screenshot or Self-reported). |
 
 ---
 
